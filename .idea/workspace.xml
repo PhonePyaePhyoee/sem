@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="451997ef-2ed6-4929-8ec1-2d714505f281" name="Changes" comment="Second Time Commit java app">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="451997ef-2ed6-4929-8ec1-2d714505f281" name="Changes" comment="Third Time Commit java app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +50,7 @@
     "Application.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -88,7 +84,7 @@
       <workItem from="1727152630063" duration="2659000" />
       <workItem from="1727155299427" duration="5000" />
       <workItem from="1727158049881" duration="2772000" />
-      <workItem from="1727168040761" duration="1132000" />
+      <workItem from="1727168040761" duration="1537000" />
     </task>
     <task id="LOCAL-00001" summary="First Time Commit">
       <option name="closed" value="true" />
@@ -106,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727153513464</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second Time Commit java app">
+      <option name="closed" value="true" />
+      <created>1727169177830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727169177830</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Third Time Commit java app">
+      <option name="closed" value="true" />
+      <created>1727169357968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727169357968</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Time Commit" />
     <MESSAGE value="Second Time Commit java app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Time Commit java app" />
+    <MESSAGE value="Third Time Commit java app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Time Commit java app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
