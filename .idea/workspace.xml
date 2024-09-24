@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="451997ef-2ed6-4929-8ec1-2d714505f281" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="451997ef-2ed6-4929-8ec1-2d714505f281" name="Changes" comment="First Time Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PhonePyaePhyoee"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/PhonePyaePhyoee/sem.git",
@@ -67,12 +65,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727152628734</updated>
-      <workItem from="1727152630063" duration="308000" />
+      <workItem from="1727152630063" duration="649000" />
     </task>
+    <task id="LOCAL-00001" summary="First Time Commit">
+      <option name="closed" value="true" />
+      <created>1727153012517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727153012517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Time Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Time Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
