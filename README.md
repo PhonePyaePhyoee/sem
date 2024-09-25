@@ -1,1 +1,1 @@
-![workflow](https://github.com/PhonePyaePhyoe/sem/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/PhonePyaePhyoee/sem/actions/workflows/main.yml/badge.svg)
