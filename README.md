@@ -8,28 +8,4 @@
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/PhonePyaePhyoee/sem/Update%20README.md/develop?style=flat-square)
 
-## Description
-
-This project implements various software engineering methods and practices. It serves as a demonstration of best practices in software development.
-
-## Features
-
-- Comprehensive coverage of software engineering methodologies.
-- Examples of practical applications.
-- Clear and maintainable codebase.
-
-## Installation
-
-To set up this project locally, follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/PhonePyaePhyoee/sem.git
-
-# Navigate into the directory
-cd sem
-
-# Install dependencies
-npm install  # or your specific package manager
-
 
