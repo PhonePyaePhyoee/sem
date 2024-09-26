@@ -1,7 +1,4 @@
+# Software Engineering Methods
 
-
-Software Engineering Methods
-Master build status !GitHub Workflow Status
-Develop build status !GitHub Workflow Status
-License [![LICENSE](https://img.shields.io/github/license/PhonePyaePhyoee/sem.svg?style=flat-square)](https://github.com/PhonePyaePhyoee/sem/blob/master/LICENSE)
-Release !Release
+Develop build status ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PhonePyaePhyoee/DevOps24/main.yml?branch=develop&style=flat-square)
+Master build status ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PhonePyaePhyoee/DevOps24/main.yml?branch=master&style=flat-square)
